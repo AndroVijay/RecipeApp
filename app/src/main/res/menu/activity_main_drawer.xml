@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Note:  android:checkableBehavior="single" -->
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_frag1"
+
+            android:title="Paneer Racipe" />
+        <item
+            android:id="@+id/nav_frag2"
+
+            android:title="Chicken Racipe" />
+        <item
+            android:id="@+id/nav_frag3"
+
+            android:title="Breakfast Recipe" />
+
+        <item
+            android:id="@+id/nav_frag4"
+
+            android:title="Red Meat Recipe" />
+
+        <item
+            android:id="@+id/nav_frag5"
+
+            android:title="Vegetable based Recipe" />
+
+        <item
+            android:id="@+id/nav_frag6"
+
+            android:title="Pastas Recipe" />
+
+    </group>
+
+</menu>
